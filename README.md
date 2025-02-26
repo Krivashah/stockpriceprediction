@@ -22,7 +22,7 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 
 ## Usage 💪🏻
 To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
+1. Clone this repository: 'https://github.com/Krivashah/stockpriceprediction.git'
 2. Install the necessary dependencies: `pip install -r requirements.txt`
 3. Download the dataset from [link] and place it in the `data` directory.
 4. Run the `train.py` script to train the LSTM model.
